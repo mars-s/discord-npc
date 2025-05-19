@@ -1,4 +1,4 @@
-# git-npc
+# discord-npc
 
 To install dependencies:
 
